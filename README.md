@@ -33,9 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/)
-- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/)
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/results-summary-component-solution-IChmlQT7o1)
+- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/Results-Summary-Component-Main/)
+- Github Solution Repository URL: [Github Hosted Codes](https://github.com/Mharvel13/Results-Summary-Component-Main)
 
 ## My process
 
